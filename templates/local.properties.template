@@ -1,0 +1,5 @@
+# Hybris properties
+
+tomcat.generaloptions={{tomcat_generaloptions}}
+tomcat.debugjavaoptions={{tomcat_debugjavaoptions}}
+standalone.javaoptions={{standalone_javaoptions}}
